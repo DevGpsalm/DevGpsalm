@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevGpsalm
-- 👀 I’m interested in Data Science & Analytics; Machine Learning
+- 👀 I’m interested in Web Development, Data Science & Analytics; Machine Learning
 - 🌱 I’m currently learning more about building solutions using data
 - 💞️ I’m looking to collaborate on Data Science & Machine learning project
 - 📫 I can be reached via mail on adebiyigs@gmail.com
